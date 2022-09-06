@@ -1,0 +1,3 @@
+#!/bin/bash
+cat passwd host > file3 | less
+
