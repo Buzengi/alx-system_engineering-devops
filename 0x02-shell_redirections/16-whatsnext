@@ -1,0 +1,2 @@
+grep -i A 3 root /etc/passwd
+ 
