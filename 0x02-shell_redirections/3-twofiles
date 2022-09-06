@@ -1,3 +1,2 @@
 #!/bin/bash
-cat passwd host > file3 | less
-
+cat /etc/passwd /etc/hosts
