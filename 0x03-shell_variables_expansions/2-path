@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /PATH/bin/action
+mkdir /usr/bin/action
