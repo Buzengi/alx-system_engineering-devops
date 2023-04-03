@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Sniffs a packet over an unencrypted connection for plaintext passwords.
+tcpdump -A port 587
+
